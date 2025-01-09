@@ -58,16 +58,20 @@ code = "#pasinh ssasinh chasinh jasinh nyjasinh sasinh ghasinh tthasinh fasinh y
 name = mediumBase;
 },
 {
-code = "chasinh jasinh nyjasinh pasinh ssasinh fasinh \012";
-name = paShapeGroup;
-},
-{
 code = "ghasinh yasinh sasinh ";
 name = saShapeGroup;
 },
 {
 code = "casinh ttasinh thasinh phasinh vasinh ";
 name = vaShapeGroup;
+},
+{
+code = "chasinh jasinh nyjasinh pasinh ssasinh fasinh \012";
+name = paShapeGroup;
+},
+{
+code = "#kasinh gasinh nngasinh tasinh shasinh hasinh bhasinh\012";
+name = kaShapeGroup;
 }
 );
 copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sinhala)";
@@ -10985,6 +10989,13 @@ n,
 0
 )
 );
+iivowelsignsinh.alt3 = (
+(
+ivowelsignsinh.alt3,
+1,
+0
+)
+);
 j = (
 (
 i,
@@ -11475,6 +11486,13 @@ B,
 uuvowelsignsinh = (
 (
 uvowelsignsinh,
+1,
+0
+)
+);
+uuvowelsignsinh.alt = (
+(
+uvowelsignsinh.alt,
 1,
 0
 )

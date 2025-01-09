@@ -14,7 +14,7 @@ position = "{509.346, 730}";
 },
 {
 name = top;
-position = "{400, 545}";
+position = "{436, 578}";
 },
 {
 name = uvowel;
@@ -137,7 +137,7 @@ position = "{545, 730}";
 },
 {
 name = top;
-position = "{478, 533}";
+position = "{492, 565}";
 },
 {
 name = uvowel;
@@ -260,7 +260,7 @@ position = "{554.055, 730}";
 },
 {
 name = top;
-position = "{461, 533}";
+position = "{606, 589}";
 },
 {
 name = uvowel;

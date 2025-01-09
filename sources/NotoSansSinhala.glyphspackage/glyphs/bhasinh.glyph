@@ -9,10 +9,6 @@ name = Anchor5;
 position = "{998, -15}";
 },
 {
-name = below;
-position = "{594, -1}";
-},
-{
 name = entry;
 position = "{104, 0}";
 },
@@ -27,6 +23,10 @@ position = "{460, 722}";
 {
 name = top;
 position = "{257, 603}";
+},
+{
+name = uvowel;
+position = "{593, 25}";
 },
 {
 name = virama;
@@ -137,10 +137,6 @@ name = Anchor5;
 position = "{994, -15}";
 },
 {
-name = below;
-position = "{620, 0}";
-},
-{
 name = entry;
 position = "{73, 0}";
 },
@@ -155,6 +151,10 @@ position = "{415.628, 722}";
 {
 name = top;
 position = "{308, 583}";
+},
+{
+name = uvowel;
+position = "{614, 68}";
 },
 {
 name = virama;
@@ -265,10 +265,6 @@ name = Anchor5;
 position = "{1063, -15}";
 },
 {
-name = below;
-position = "{708, -1}";
-},
-{
 name = entry;
 position = "{49, 0}";
 },
@@ -283,6 +279,10 @@ position = "{435.111, 722}";
 {
 name = top;
 position = "{347, 533}";
+},
+{
+name = uvowel;
+position = "{698, 134}";
 },
 {
 name = virama;

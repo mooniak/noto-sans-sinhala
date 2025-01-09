@@ -17,6 +17,10 @@ name = top;
 position = "{257, 603}";
 },
 {
+name = uvowel;
+position = "{618, 18}";
+},
+{
 name = virama;
 position = "{660, 595}";
 }
@@ -237,6 +241,10 @@ name = top;
 position = "{298, 583}";
 },
 {
+name = uvowel;
+position = "{610, 51}";
+},
+{
 name = virama;
 position = "{771, 536}";
 }
@@ -357,6 +365,10 @@ name = top;
 position = "{348, 533}";
 },
 {
+name = uvowel;
+position = "{643, 84}";
+},
+{
 name = virama;
 position = "{816, 536}";
 }
@@ -436,7 +448,7 @@ nodes = (
 "678 117 CURVE SMOOTH",
 "678 93 OFFCURVE",
 "657 88 OFFCURVE",
-"642 84 CURVE",
+"643 84 CURVE",
 "702 61 LINE",
 "729 76 OFFCURVE",
 "763 106 OFFCURVE",
