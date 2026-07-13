@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = "vocalicrbase-sinh";
 layers = (
 {
@@ -1203,6 +1202,6 @@ nodes = (
 width = 688;
 }
 );
-leftMetricsKey = "ngga-sinh";
+leftMetricsKey = "nnga-sinh";
 rightMetricsKey = "ga-sinh";
 }

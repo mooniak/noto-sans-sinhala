@@ -7,7 +7,7 @@ components = (
 name = "a-sinh";
 },
 {
-name = "aa-sign-sinh";
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 659, 0}";
 }
 );
@@ -20,7 +20,7 @@ components = (
 name = "a-sinh";
 },
 {
-name = "aa-sign-sinh";
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 714, 0}";
 }
 );
@@ -33,7 +33,7 @@ components = (
 name = "a-sinh";
 },
 {
-name = "aa-sign-sinh";
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 761, 0}";
 }
 );
@@ -46,7 +46,7 @@ components = (
 name = "a-sinh";
 },
 {
-name = "aa-sign-sinh";
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 489, 0}";
 }
 );
@@ -59,7 +59,7 @@ components = (
 name = "a-sinh";
 },
 {
-name = "aa-sign-sinh";
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 526, 0}";
 }
 );
@@ -72,7 +72,7 @@ components = (
 name = "a-sinh";
 },
 {
-name = "aa-sign-sinh";
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 603, 0}";
 }
 );

@@ -7,7 +7,7 @@ components = (
 name = "vocalicrbase-sinh";
 },
 {
-name = "vocalicr-sign-sinh";
+name = "vocalicrsign-sinh";
 transform = "{1, 0, 0, 1, 822, 0}";
 }
 );
@@ -20,7 +20,7 @@ components = (
 name = "vocalicrbase-sinh";
 },
 {
-name = "vocalicr-sign-sinh";
+name = "vocalicrsign-sinh";
 transform = "{1, 0, 0, 1, 816, 0}";
 }
 );
@@ -34,7 +34,7 @@ name = "vocalicrbase-sinh";
 transform = "{1, 0, 0, 1, -1, 0}";
 },
 {
-name = "vocalicr-sign-sinh";
+name = "vocalicrsign-sinh";
 transform = "{1, 0, 0, 1, 904, 0}";
 }
 );
@@ -47,7 +47,7 @@ components = (
 name = "vocalicrbase-sinh";
 },
 {
-name = "vocalicr-sign-sinh";
+name = "vocalicrsign-sinh";
 transform = "{1, 0, 0, 1, 568, 0}";
 }
 );
@@ -60,7 +60,7 @@ components = (
 name = "vocalicrbase-sinh";
 },
 {
-name = "vocalicr-sign-sinh";
+name = "vocalicrsign-sinh";
 transform = "{1, 0, 0, 1, 613, 0}";
 }
 );
@@ -73,7 +73,7 @@ components = (
 name = "vocalicrbase-sinh";
 },
 {
-name = "vocalicr-sign-sinh";
+name = "vocalicrsign-sinh";
 transform = "{1, 0, 0, 1, 688, 0}";
 }
 );
@@ -81,6 +81,6 @@ layerId = "DC607D84-584B-45E6-A9EB-D1AF471CA2AE";
 width = 1102;
 }
 );
-rightMetricsKey = "vocalicr-sign-sinh";
+rightMetricsKey = "vocalicrsign-sinh";
 unicode = 0D8D;
 }

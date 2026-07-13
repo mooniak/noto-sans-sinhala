@@ -2067,7 +2067,7 @@ nodes = (
 width = 732;
 }
 );
-leftMetricsKey = "ngga-sinh";
+leftMetricsKey = "nnga-sinh";
 rightKerningGroup = "da-sinh";
 rightMetricsKey = "da-sinh";
 unicode = 0DB3;
