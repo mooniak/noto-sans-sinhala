@@ -18,11 +18,11 @@
   ],
   "versions_provider": "tags",
   "repository": {
-    "url": "https://github.com/mooniak/noto-sans-sinhala",
+    "url": "https://github.com/mooniak/noto-sans-sinhala-font",
     "type": "git"
   },
-  "homepage_url": "https://src.mooniak.com/noto-sans-sinhala/",
-  "issues_url": "https://github.com/mooniak/noto-sans-sinhala/issues/",
+  "homepage_url": "https://src.mooniak.com/noto-sans-sinhala-font/",
+  "issues_url": "https://github.com/mooniak/noto-sans-sinhala-font/issues/",
   "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
   "foundry": {
     "name": "mooniak",
