@@ -1,0 +1,88 @@
+{
+  "name": "Noto Sinhala",
+  "id": "noto-sans-sinhala",
+  "type": "family",
+  "designer": [
+    "Mooniak"
+  ],
+  "scripts": [
+    "Sinh",
+    "Latn"
+  ],
+  "description": "Mooniak's work on the Noto Sans Sinhala and Noto Serif Sinhala typefaces, built and QA-tested with FontBakery.",
+  "license": "OFL-1.1",
+  "channels": [
+    "release",
+    "dev",
+    "nightly"
+  ],
+  "versions_provider": "tags",
+  "repository": {
+    "url": "https://github.com/mooniak/noto-sans-sinhala",
+    "type": "git"
+  },
+  "homepage_url": "https://src.mooniak.com/noto-sans-sinhala/",
+  "issues_url": "https://github.com/mooniak/noto-sans-sinhala/issues/",
+  "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
+  "foundry": {
+    "name": "mooniak",
+    "email": "hello@mooniak.com",
+    "url": "https://mooniak.com/",
+    "vendor_id": "MNIK"
+  },
+  "designers": [
+    {
+      "name": "",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "maintenance": {
+    "status": "actively-developed",
+    "comment": "fontpackage.json created during naming standardisation. Includes Noto Sans + Noto Serif Sinhala sources. Progress metrics need assessment."
+  },
+  "tools": "Glyphs, FontBakery",
+  "progress": {
+    "design": 0,
+    "family_styles": 0,
+    "character_set": 0,
+    "drawing_quality": 0,
+    "spacing": 0,
+    "kerning": 0,
+    "hinting": 0,
+    "opentype_features": 0
+  },
+  "tags": {
+    "style": "sans-serif",
+    "contrast": "low",
+    "width": "normal",
+    "body_height": "normal",
+    "intended_usage": "text",
+    "figures": "normal",
+    "languages": [
+      "si_LK",
+      "en_US"
+    ],
+    "related_fonts": []
+  },
+  "directory": {
+    "listed": true,
+    "display_texts": {
+      "en_US": "",
+      "si_LK": ""
+    },
+    "display_images": {
+      "banner": "",
+      "thumbnail": "",
+      "small": "",
+      "medium": "",
+      "large": ""
+    },
+    "links": {
+      "font_in_use": "",
+      "googlefonts": "",
+      "fontlibrary_org": "",
+      "typekit": ""
+    }
+  }
+}
