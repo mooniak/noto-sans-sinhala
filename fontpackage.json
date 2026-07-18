@@ -12,9 +12,9 @@
   "description": "Mooniak's work on the Noto Sans Sinhala and Noto Serif Sinhala typefaces, built and QA-tested with FontBakery.",
   "license": "OFL-1.1",
   "channels": [
-    "release",
+    "canary",
     "dev",
-    "nightly"
+    "release"
   ],
   "versions_provider": "tags",
   "repository": {
